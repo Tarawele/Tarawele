@@ -2,7 +2,7 @@
   <!-- <img width="600" height="200" src="./giphy.gif"> -->
 </p>
 
-<h1 align="center">Траоре Саиду Абубакар Сидики</h1>
+<h1 align="center">Траоре Сидики</h1>
 <h3 align="center">Системный аналитик / Business Analyst</h3>
 
 <p align="center">
