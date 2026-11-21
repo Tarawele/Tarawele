@@ -85,16 +85,16 @@
 Я сам сверстал фронтенд, написал бэкенд на Flask, настроил сервер VPS и задеплоил проект под Nginx. Ссылка на живой сайт: [195.209.218.180](https://195.209.218.180/).
 
 **Хакатон**  
-Выступал в роли Python-разработчика. Нам нужно было в сжатые сроки собрать рабочий прототип под бизнес-задачу. Мы справились. Код можно посмотреть тут: [github.com/CherepanovKirill/28](https://github.com/CherepanovKirill/28).
+Выступал в роли Python-разработчика. Нам нужно было в сжатые сроки собрать рабочий прототип под бизнес-задачу. Мы справились. Код можно посмотреть тут: [github.com/CherepanovKirill/28](https://github.com/CherepanovKirillV/28).
 
 **Trade-Management-System**  
 Мой пет-проект для тренировки навыков системного анализа. Я прошел полный цикл: собрал требования, описал процессы в BPMN и UML, спроектировал API в OpenAPI, написал SRS и SQL-запросы для аналитики. Ссылка на проект: [github.com/Tarawele/Trade-Management-System](https://github.com/Tarawele/Trade-Management-System).
 
 **Системное программирование на C и C++**  
-Реализовал матричную библиотеку, собственные контейнеры (аналог STL) и утилиты в стиле Simple Bash Utils. Это помогло мне глубже понять работу с памятью и алгоритмы. Ссылки на проекты: [github.com/Tarawele/s21_matrix](https://github.com/Tarawele/s21_matrix) и [github.com/Tarawele/s21_containers](https://github.com/Tarawele/s21_containers).
+Реализовал матричную библиотеку, собственные контейнеры (аналог STL) и утилиты в стиле Simple Bash Utils. Это помогло мне глубже понять работу с памятью и алгоритмы. Ссылки на проекты: [github.com/Tarawele/s21_matrix](https://github.com/Tarawele/Matrix) и [github.com/Tarawele/s21_containers](https://github.com/Tarawele/s21_containers).
 
 **DevOps-практики**  
-Настраивал Linux-сети, писал Dockerfile и управлял Docker-образами для микросервисов. Понимаю, как приложение живет от строчки кода до контейнера в продакшене. Ссылка на проект: [github.com/Tarawele/s21_docker](https://github.com/Tarawele/s21_docker).
+Настраивал Linux-сети, писал Dockerfile и управлял Docker-образами для микросервисов. Понимаю, как приложение живет от строчки кода до контейнера в продакшене. Ссылка на проект: [github.com/Tarawele/s21_docker](https://github.com/Tarawele/Simple-Docker).
 
 ---
 ## Контакты
