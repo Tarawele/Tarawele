@@ -6,7 +6,7 @@
 
 *Помогаю бизнесу и разработчикам найти общий язык и довожу задачи от идеи до рабочего релиза.*
 
-[![Email](https://img.shields.io/badge/Email-sidiki2025@mail.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:turaman99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-turaman99@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:turaman99@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@sidiki2025-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sidiki2025)
 [![GitHub](https://img.shields.io/badge/GitHub-Tarawele-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tarawele)
 [![Location](https://img.shields.io/badge/Москва-Россия-4CAF50?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -149,7 +149,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sidiki2025@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidiki2025@mail.ru)
+[![Email](https://img.shields.io/badge/Email-turaman99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turaman99@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@sidiki2025-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sidiki2025)[![GitHub](https://img.shields.io/badge/GitHub-Tarawele-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarawele)
 
 📱 **+7 (968) 545-50-22** · 📍 **Москва, Россия** · Открыт к удалёнке и гибриду
